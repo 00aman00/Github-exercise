@@ -2,3 +2,8 @@ Favorites foods -
 1. Rice
 2. Dal
 3. Chicken Curry
+
+Favorite movies :
+1. The Kashmir Files
+2. Resident Evil
+3. Liar-Liar
